@@ -9,10 +9,10 @@
 
 ## 📌 프로젝트 카테고리
 
-- 🔹 [Mini Projects](#miniprojects)  
-- 🔹 [Team / Collaboration Projects](#team--collaboration-projects)  
-- 🔹 [System & Monitoring]##system--monitoring)  
-- 🔹 [Security & DevOps](#security--devops)  
+- 🔹 [Mini Projects]
+- 🔹 [Team / Collaboration Projects]
+- 🔹 [System & Monitoring]
+- 🔹 [Security & DevOps]
 
 ---
 
